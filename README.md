@@ -1,2 +1,2 @@
-# College-Management-System-C-Project
-C++ Project College Management System 
+# College-Management-System-C++-Project
+C++ (OOP CONCEPTS)Project College Management System 
